@@ -1,4 +1,7 @@
 SID DOS v. 1.1 </br>
+Disco de inicialização original do computador SID 501</br>
+SID Informática, 1986, Brasil</br>
+</br>
 Disco original lido com WinImage</br>
 </br>
 ========= fun facts =========</br>
