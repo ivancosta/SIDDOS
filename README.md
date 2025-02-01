@@ -1,8 +1,9 @@
-SID DOS v. 1.1 </br>
+# SID DOS v. 1.1 </br>
 </br>
-![Capa do disco](20250127_161401.jpg)
 Disco de inicialização original do computador SID 501, em um disquete (ou diskette) de 5"1/4 (5.25 polegadas) de 360KB de capacidade.</br>
 SID Informática, 1986, Brasil.</br>
+</br>
+![Capa do disco](20250127_161401.jpg)
 </br>
 Disco original lido com WinImage.</br>
 </br>
